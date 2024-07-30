@@ -72,3 +72,8 @@
 .btn-login {
   padding: 10px 10px;
 }
+
+.user-card{
+  padding: 10px;
+  border: 2px solid;
+}
